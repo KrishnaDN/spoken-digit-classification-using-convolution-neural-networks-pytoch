@@ -1,1 +1,1 @@
-# spoken-digit-classification-using-convolution-neural-networks-pytoch-
+# Spoken Digit classification using Convolution Neural Networks using Pytorch
